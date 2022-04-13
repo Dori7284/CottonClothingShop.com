@@ -1,0 +1,147 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(ab.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 111%;
+}
+.clothes{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+
+}
+.navin{
+    height: 80px;
+    font-family: sans-serif;
+    display: flex;
+    color: white;
+    background-color: black;
+}
+.nav2{
+    width: auto;
+    height: auto;
+    font-family: sans-serif;
+    font-display:initial;
+    color: white;
+    background-color: black;
+}
+.title{
+    margin-right: 150px;
+}
+.navhyper{
+    text-decoration: none;
+    margin-right: 77px;
+    color: white;
+}
+.navhyper:hover{
+    color: rgb(179, 179, 179);
+    text-decoration: underline;
+}
+.register{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 150px;
+}
+.search{
+    margin-top: 25px;
+    margin-left: 50px;
+    width: 350px;
+    height: 33px;
+}
+.button{
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 77px;
+    height: 33px;
+}
+.fa-instagram{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-left: 50px;
+    color:rgb(167, 36, 36);
+}
+.fa-facebook{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-left: 20px;
+    color:rgb(0, 89, 255);
+}
+.fa-twitter{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-left: 20px;
+    color:rgb(0, 247, 255);
+}
+.fa-instagram:hover{
+    color: rgb(255, 0, 0)
+}
+.fa-facebook:hover{
+    color: rgb(0, 38, 255)
+}
+.fa-twitter:hover{
+    color:rgb(0, 255, 76)
+}
+.login{
+    margin-top: 50px;
+}
+.description{
+    color: white;
+    margin-left: 200px;
+    margin-top: 120px;
+    font-size: 20px;
+}
+.about{
+    margin-top: 100px;
+    color: white;
+    margin-left: 200px;
+}
+ul li{
+    margin-top: 60px;
+    margin-left: 50px;
+    font-size: 23px;
+}
+li{
+    color: rgb(255, 0, 119)
+}
+.options{
+    font-size: 25px;
+    color: white;
+}
+.pagess{
+    color: white;
+    margin-left: 595px;
+    margin-top: -1004px;
+    font-family: sans-serif;
+    z-index: 1;
+}
+.row{
+    margin-left: 20px;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 115, 0);
+    width: 78px;
+    margin-bottom: -20px;
+    border: solid 1px;
+    border-color: white;
+}
+.aboutt{
+    color: rgb(0, 0, 0); 
+    margin-left: -190px;
+    font-size: 50px;
+    margin-bottom: 77px;
+}
+.aboutt::after{
+    color: white;
+    content: "-----------------------------------------------------";
+    z-index: 0.5;
+}
+.aboutt::before{
+    color: white;
+    content: "------------------------------------------------";
+    z-index: 0.5;
+}
